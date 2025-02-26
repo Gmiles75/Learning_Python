@@ -18,3 +18,10 @@ print(name, colour, country)
 print(name)
 print(colour)
 print(country)
+
+year, make, model = 2018, 'BMW', '328i'
+print(year, make, model)
+
+machine, make, model = 'blender', 'Ninja', 'BC151BK'
+print(machine, make, model)
+
